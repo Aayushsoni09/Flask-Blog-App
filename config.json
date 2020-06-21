@@ -1,0 +1,21 @@
+{
+  "params": {
+    "local_server": "True",
+    "local_uri":"mysql://root:@localhost/codingblog",
+    "prod_uri": "mysql://root:@localhost/codingblog",
+    "fb_url":"https://facebook.com/codingblog",
+    "tw_url":"https://twitter.com/codingblog",
+    "gh_url":"https://github.com/codingblog",
+    "blog_name": "CodingBLog",
+    "tagline": "A Blog liked by Coders",
+    "mail_username": "youremail@gmail.com",
+    "mail_password": "yourpassword",
+    "about_text": "Add your text here",
+    "no_of_posts": 3,
+    "admin_email": "soniaayush24400@gmail.com",
+    "admin_password": "1234",
+    "upload_location":"C:\\pycharm_projects\\flask_01\\static"
+  }
+
+
+}
